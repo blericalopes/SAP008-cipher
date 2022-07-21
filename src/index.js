@@ -1,3 +1,23 @@
 import cipher from './cipher.js';
 
-console.log(cipher);
+let descriptarBtn = document.getElementById("descriptar-btn");
+let criptarBtn = document.getElementById("criptar-btn");
+
+
+criptarBtn.addEventListener("click", () => {
+let texto = document.getElementById("texto").value.toUpperCase();
+let deslocamento = parseInt(document.getElementById("deslo").value);
+let transfTextoCi = cipher.Criptar();
+//console.log (transfTextoCi);
+})
+
+
+
+descriptarBtn.addEventListener("click", () => {
+let texto = document.getElementById("texto").value.toUpperCase();
+let deslocamento = parseInt(document.getElementById("deslo").value);
+let transfTextoDe = cipher.Descriptar();
+//console.log (transfTextoDe);    
+
+})
+

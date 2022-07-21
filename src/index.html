@@ -6,9 +6,34 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+   <header class="topo">
+      <img class= "foto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhKauHeKppOhotScOhULwBFn9dbKMtEcRzg&usqp=CAU"/>
+      <div class= "titulo">
+        <h1>CIFRA DE CÉSAR</h1>
+        <h2>Vamos criptografar uma mensagem simplesmente trocando
+           cada letra da mensagem presente no alfabeto normal pelo 
+           alfabeto cifrado de acordo com o deslocamento. A descriptografia 
+           é justamento o processo inverso:</h2>
+        <p>LOGO ABAIXO VOCÊ ENCONTRA OS CAMPOS PARA CRIPTAR E DESCRIPTAR!!</p>
+        <h3>DIVIRTA-SE!&#128270;</h3>
+      </div>
+    </header>
+
+    <main class="conteudo">
+      <div>
+        <input type="text" id="texto" placeholder="Digite aqui">
+        <input type="text" id="deslo" placeholder="Deslocamento">
+        <button type="submit" id= "criptar-btn">Criptar</button>
+        <button type="submit" id= "descriptar-btn">Descriptar</button>
+        <p id="resultado"></p>
+      </div>
+    </main>
+
     <div id="root">
-      <h1>Hello world!</h1>
+      <h1></h1>
     </div>
+    
     <script src="index.js" type="module"></script>
   </body>
 </html>
+

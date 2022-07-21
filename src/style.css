@@ -1,0 +1,67 @@
+body {
+    background:#d3d3d3;
+ } 
+
+.foto {
+    border-radius: 460px; 
+    max-height: 200px;
+    padding: 50px;
+  }
+
+.topo {
+    font-family: 'robot', monospace;
+    display: flex;
+    background: #add8e6;
+    color: #2e2e2e;
+    margin: 50px;
+    border-radius: 40px;
+    box-shadow: 6px 6px 6px;
+  }
+
+.titulo {
+    text-align:center;
+    margin-right: 30px;
+    
+  }
+
+.titulo h1 {
+    font-weight: 600;
+    font-size: 65px;
+    margin: 23px;
+    font-weight: bold
+    
+  }
+    
+.titulo h2 {
+    font-size: 20px;
+    text-align: center; 
+    background: #a9a9a9;
+    border-radius: 40px;
+}
+
+.titulo p {
+    font-size: 20px;font-weight: bold;
+
+  }
+
+.conteudo {
+    font-family: 'robot', monospace;
+    display: flex;
+    background: #add8e6;
+    color: #2e2e2e;
+    margin: 50px;
+    border-radius: 40px;
+    box-shadow: 6px 6px 6px;
+  }
+
+input {
+    padding: 10px 15px;
+    margin: 30px;
+    border-radius: 40px;
+  }
+
+button {
+    padding: 10px 15px;
+    margin: 30px;
+    border-radius: 40px;
+  }
