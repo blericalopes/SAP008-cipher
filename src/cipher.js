@@ -20,8 +20,8 @@ console.log (deslocamento);
 function Descriptar () {
   let texto = document.getElementById("texto").value.toUpperCase();
   let deslocamento = parseInt(document.getElementById("deslo").value);
-//console.log (texto); 
-//console.log (deslocamento);
+console.log (texto); 
+console.log (deslocamento);
 
   let transfTextoDe = "";
     for( let i =0; i< texto.length; i++) { 
