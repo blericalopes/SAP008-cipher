@@ -4,14 +4,10 @@ let descriptarBtn = document.getElementById("descriptar-btn");
 let criptarBtn = document.getElementById("criptar-btn");
 
 criptarBtn.addEventListener("click", () => {
-let texto = document.getElementById("texto").value.toUpperCase();
-let deslocamento = parseInt(document.getElementById("deslo").value);
-let transfTextoCi = cipher.Criptar();
+let criptarBtn = cipher.Criptar();
 })
 
 descriptarBtn.addEventListener("click", () => {
-let texto = document.getElementById("texto").value.toUpperCase();
-let deslocamento = parseInt(document.getElementById("deslo").value);
-let transfTextoDe = cipher.Descriptar();   
+let descriptarBtn = cipher.Descriptar();   
 })
 
