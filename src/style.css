@@ -1,75 +1,82 @@
 body {
-    background:#d3d3d3;
- } 
+ background-color: #E0E0E0;
+  
+}
+
+.topo {
+    font-family:'robot', monospace;
+    display: flex;
+    background: #3F51B5;
+    margin: 50px;
+    border-radius: 40px;
+    box-shadow: 6px 6px 6px;
+
+}
 
 .foto {
     border-radius: 460px; 
     max-height: 250px;
-    padding: 25px;
+    padding: 50px;
     
-  }
-
-.topo {
-    font-family: 'robot', monospace;
-    display: flex;
-    background: #add8e6;
-    color: #2e2e2e;
-    margin: 50px;
-    border-radius: 40px;
-    box-shadow: 6px 6px 6px;
-  }
+}
 
 .titulo {
     text-align:center;
-    margin-right: 30px;
+    margin: 30px;
     
-  }
+}
 
 .titulo h1 {
-    font-weight: 600;
+    color: #FAFAFA;
+    font-weight: 500;
     font-size: 65px;
-    margin: 20px;
-    font-weight: bold
+    margin: 10px;
     
-  }
+}
     
-.titulo h2 {
+.titulo h3 {
     font-size: 20px;
-    text-align: center; 
-    background: #d3d3d3;
-    border-radius: 40px;
+    color: #212121;
+    
 }
 
 .titulo p {
     font-size: 20px;
-    font-weight: bold;
-
-  }
+    color: #212121;
+    
+}
 
 .conteudo {
     font-family: 'robot', monospace;
     display: flex;
-    background: #add8e6;
-    color: #2e2e2e;
+    background: #3F51B5;
+    color: #212121;
     margin: 50px;
     border-radius: 40px;
     box-shadow: 6px 6px 6px;
-  }
+
+}
 
 input {
     padding: 10px 15px;
     margin: 30px;
     border-radius: 40px;
-  }
 
+}
 
 button {
     padding: 10px 15px;
     margin: 30px;
     border-radius: 40px;
-  }
 
-.conteudo p {
+}
+
+p {
   font-size: 20px;
+  margin: 30px;
   font-weight: bold;
-  }
+  text-align: center;
+  word-wrap: break-word;
+  font-family: 'robot', monospace;
+
+}
