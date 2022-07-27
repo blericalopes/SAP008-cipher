@@ -18,4 +18,4 @@ prática, poucas informações e simplicidade assim entregando ao usuário o res
 desejado.
 
 # Protótipo
-![Imagem](../SAP008-CIPHER/minhaPasta/Protótipo.png)
+![Protótipo.png](../SAP008-CIPHER/minhaPasta/Protótipo.png)
