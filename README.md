@@ -26,3 +26,6 @@ desejado como uma aplicação para fazer traduções.
 
 ![Versão final](https://github.com/blericalopes/SAP008-cipher/blob/main/Vers%C3%A3o%20final.png?raw=true)
 
+# Objetivos de Aprendizagem
+
+
