@@ -33,19 +33,19 @@ Uso de HTML semântico
 
 CSS -
 Uso de seletores CSS
-Empregar o modelo de caixa (box model): borda, margem, preenchimento
+,Empregar o modelo de caixa (box model): borda, margem, preenchimento
 
 Web APIs -
-Uso de seletores de DOM
-Manipulação de eventos de DOM
+Uso de seletores de DOM 
+,Manipulação de eventos de DOM
 
 JavaScript -
 Tipos de dados primitivos
-Strings (cadeias de caracteres)
-Variáveis (declaração, atribuição, escopo)
-Uso de condicionais (if-else, switch, operador ternário)
-Uso de laços (for, for..of, while)
-Uso de funções (parâmetros, argumentos, valor de retorno)
+,Strings (cadeias de caracteres)
+,Variáveis (declaração, atribuição, escopo) 
+,Uso de condicionais (if-else, switch, operador ternário)
+,Uso de laços (for, for..of, while)
+,Uso de funções (parâmetros, argumentos, valor de retorno)
 
 Testes unitários
 
@@ -53,11 +53,11 @@ Módulos de ECMAScript (ES modules)
 
 Git -
 Instalação e configuração
-Controle de versão com git (init, clone, add, commit, status, push, pull, remote)
+,Controle de versão com git (init, clone, add, commit, status, push, pull, remote)
 
 GitHub -
 Criação de contas e repositórios, configuração de chave SSH
-Implantação com GitHub Pages
+,Implantação com GitHub Pages
 
 User-centricity -
 Desenhar a aplicação pensando e entendendo o usuário
