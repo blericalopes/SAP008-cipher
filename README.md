@@ -22,7 +22,7 @@ desejado como uma aplicação para fazer traduções.
 
 ![Protótipo](https://github.com/blericalopes/SAP008-cipher/blob/main/Prot%C3%B3tipo.png?raw=true)
 
-# Objetivos de Aprendizagem
+# Objetivos de Aprendizagem 
 
 HTML -
 Uso de HTML semântico.
