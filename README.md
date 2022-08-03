@@ -12,8 +12,7 @@ o usuário pode cifrar e decifrar mensagens simples para que de forma clara e ob
 o principal usuário possa usar essa ferramenta para realizar pesquisa, conferência, 
 estudo, curiosidade sobre o funcionamento da criptografia e até como forma de entretenimento
 e passatempo.
-A aplicação ainda possui uma funcionalidade simples, de A-Z, sem espaços e caracteres
-especiais.
+A aplicação ainda possui uma funcionalidade simples, de A-Z, aceita minúsculas e maiúsculas, porém sem espaços e caracteres especiais.
 O objetivo era desenvolver algo focando em facilidade, simplicidade e na resolução imediata
 e de forma prática, contendo poucas informações, dessa forma entregando ao usuário o resultado
 desejado como uma aplicação para fazer traduções.
