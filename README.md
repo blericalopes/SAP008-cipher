@@ -17,10 +17,6 @@ O objetivo era desenvolver algo focando em facilidade, simplicidade e na resolu�
 e de forma prática, contendo poucas informações, dessa forma entregando ao usuário o resultado
 desejado como uma aplicação para fazer traduções.
 
-# Protótipo
-
-![Protótipo](https://github.com/blericalopes/SAP008-cipher/blob/main/Prot%C3%B3tipo.png?raw=true)
-
 # Objetivos de Aprendizagem 
 
 HTML -
