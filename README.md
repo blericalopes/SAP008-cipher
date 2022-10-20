@@ -53,7 +53,5 @@ Implantação com GitHub Pages.
 User-centricity -
 Desenhar a aplicação pensando e entendendo o usuário.
 
-# Versão Final 
 
-![Versão final](https://github.com/blericalopes/SAP008-cipher/blob/main/Vers%C3%A3o%20final.png?raw=true)
 
